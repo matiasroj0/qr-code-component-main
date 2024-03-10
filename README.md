@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: https://stellular-starburst-2b2347.netlify.app/
+- Live Site URL: https://matiasrojo-qr-code-component.netlify.app/
 
 ### Built with
 
